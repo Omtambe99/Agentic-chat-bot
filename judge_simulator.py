@@ -20,8 +20,8 @@ Author: magicpin AI Challenge Team
 # ██████  CONFIGURATION - EDIT THIS SECTION ██████
 # =============================================================================
 
-# Your bot's URL (where your bot is running)
-BOT_URL = "http://localhost:8080"
+# The URL of your deployed bot (or localhost for testing)
+BOT_URL = "https://magicpin-agentic-chat-bot.onrender.com"
 
 # Choose your LLM provider: "openai", "anthropic", "gemini", "deepseek", "groq", "ollama", "openrouter"
 LLM_PROVIDER = "gemini"
